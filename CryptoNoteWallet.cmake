@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "clapnote")
+set(CN_CURRENCY_DISPLAY_NAME "ClapNote")
+set(CN_CURRENCY_TICKER "Clap")

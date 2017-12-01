@@ -1,0 +1,3 @@
+[submodule "clapnote"]
+	path = clapnote
+	url = https://github.com/laugh26/clapnote.git

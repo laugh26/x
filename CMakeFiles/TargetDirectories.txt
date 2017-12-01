@@ -1,0 +1,6 @@
+/home/jesus/Music/cryptonotewallet/CMakeFiles/edit_cache.dir
+/home/jesus/Music/cryptonotewallet/CMakeFiles/rebuild_cache.dir
+/home/jesus/Music/cryptonotewallet/CMakeFiles/clapnote.dir
+/home/jesus/Music/cryptonotewallet/CMakeFiles/cryptonote.dir
+/home/jesus/Music/cryptonotewallet/CMakeFiles/clapnote_automoc.dir
+/home/jesus/Music/cryptonotewallet/CMakeFiles/cryptonote_automoc.dir
